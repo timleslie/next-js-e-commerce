@@ -5,6 +5,7 @@ export default {
   type: "document",
   title: "Swag",
   icon: MdWhatshot,
+  liveEdit: true,
   fields: [
     {
       name: "name",
